@@ -4,3 +4,6 @@
 
 Setup
   $ make install
+
+How to start app?
+  https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
